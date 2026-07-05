@@ -21,16 +21,4 @@ test('Calender Test', async({page}) => {
             expect(actVal).toEqual(fullDate[i]);
     }
 
-
-
-
-
-
-
-
-
-
-
-
-
 })
