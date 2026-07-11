@@ -9,6 +9,9 @@ test("Visual Test", async({page})=> {
     console.log("Ruman changes applied");
     //Abhik Changes
     console.log("Abhik Changes");
+    //Abhik Changes 2
+    console.log("Abhik Changes 2");
+
     // Ruman Change 2
     console.log("Ruman Change 2 applied");
 })
