@@ -20,4 +20,7 @@ test("Visual Test", async({page})=> {
     console.log("Ruman Change 4 applied");
     //Abhik Changes 3
     console.log("Abhik Changes 3");
+
+    // Ruman Change 5
+    console.log("Ruman Change 5 applied");
 })
